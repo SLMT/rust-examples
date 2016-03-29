@@ -1,5 +1,5 @@
 [package]
-name = "tcp-server"
+name = "tcp-echo-server"
 version = "0.1.0"
 authors = ["SLMT <sam123456777@gmail.com>"]
 
