@@ -1,0 +1,12 @@
+[package]
+name = "padding-oracle-attack"
+version = "0.1.0"
+authors = ["SLMT"]
+
+[dependencies]
+rand = "0.3"
+
+[lib]
+name = "poa"
+path = "src/lib.rs"
+doc = true
